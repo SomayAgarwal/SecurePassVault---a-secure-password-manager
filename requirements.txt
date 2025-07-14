@@ -1,0 +1,9 @@
+tkinter
+pillow
+cryptography
+pyotp
+pyperclip
+requests
+markdown
+beautifulsoup4
+qrcode
