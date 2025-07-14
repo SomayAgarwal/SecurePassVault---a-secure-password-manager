@@ -15,5 +15,4 @@ A secure password manager with encryption, TOTP authentication, and password aud
 ```bash
 git clone https://github.com/yourusername/SecurePassVault.git
 cd SecurePassVault
-pip install -r requirements.txt
-python src/main.py
+pip
